@@ -1,0 +1,21 @@
+# top-most EditorConfig file
+root = true
+
+# Python settings
+[*.py]
+# Indentation style: space or tab
+indent_style = space
+# Size of a single indentation (4 spaces is the standard for Python)
+indent_size = 4
+# Charset of the file
+charset = utf-8
+# Unix-style newlines with a newline ending every file
+end_of_line = lf
+# Removes trailing whitespace
+trim_trailing_whitespace = true
+# Ensures file ends with a newline
+insert_final_newline = true
+# Set to true to show whitespace characters
+show_whitespace = true
+# Set the Python version for tools that support it
+python_version = 3
